@@ -1,4 +1,4 @@
-***Pour créer une UO Wilders_students
+***Pour créer une UO Wilders_students***
 
 Depuis le gestionnaire de serveur, dans l’onglet Outils > choisir Utilisateurs et Ordinateurs Active directory, on retrouve le domaine « wilders.lan »
 
